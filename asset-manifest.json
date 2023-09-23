@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/book-library-sept/static/css/main.b146d845.css",
+    "main.js": "/book-library-sept/static/js/main.7a3db1d8.js",
+    "static/media/keyzone.svg": "/book-library-sept/static/media/keyzone.4eda4102174ce98098fa76bc2191168d.svg",
+    "index.html": "/book-library-sept/index.html",
+    "main.b146d845.css.map": "/book-library-sept/static/css/main.b146d845.css.map",
+    "main.7a3db1d8.js.map": "/book-library-sept/static/js/main.7a3db1d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b146d845.css",
+    "static/js/main.7a3db1d8.js"
+  ]
+}
